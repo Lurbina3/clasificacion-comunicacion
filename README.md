@@ -8,4 +8,4 @@ Cada vez que la webcam captura un cuadro, el sistema procesa la imagen y utiliza
 
 Cheetos: $2000
 Speed Max: $3000
-Oreos: $100
+Oreos: $1000
